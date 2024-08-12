@@ -1,6 +1,7 @@
 import Png from '../assets/my-photo.jpg'
 
 const About = () => {
+    
   return (
     <>
         <div className="lg:mx-5  flex  justify-center flex-wrap md:pt-24 pt-14" id="about">
@@ -16,13 +17,10 @@ const About = () => {
                         </div>
                         <div className="lg:col-span-2 md:col-span-1  my-4 mx-2">
                             <div className='mb-5 lg:text-xl md:text-lg font-sourcecd'>
-                                Hi, I’m Gowtham Ramesh and I
-                                interested in programming. Now,
-                                am currently studying Degree
-                                (B,E. Computer Science of
-                                Engineering) at University College
-                                of engineering Arni. Am a fast
-                                learner in the technical terms.
+                            Hello, I’m Gowtham Ramesh, and I have a strong passion for programming. 
+                            I am currently pursuing a Bachelor of Engineering in Computer Science and
+                             Engineering at University College of Engineering, Arni. I am a quick learner, 
+                             especially when it comes to technical concepts.
                             </div>
                             <h1 className='lg:text-3xl text-xl md:text-2xl flex gap-1 text-green-500 mb-2'>
                                 Education

@@ -1,5 +1,6 @@
 import Prj1 from '../assets/project/oneproj.png' 
 import Prj2 from '../assets/project/nit.png'
+import Prj3 from '../assets/project/port.png'
 
 
 const Projects = () => {
@@ -25,8 +26,7 @@ const Projects = () => {
                                     </div>
                                     <div>
                                     <h1 className='lg:text-2xl md:text-xl text-lg mb-5'>Real-Time File Sharing Website.</h1>
-                                    Here we can easily share the all type of data by using a single room,
-                                    it was build over the websockets using socket.io api.
+                                    This platform enables efficient data sharing within a single room, leveraging WebSockets through the Socket.io API for seamless communication.
                                     <div className='mt-5 flex gap-3 flex-wrap'>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-html5-plain-wordmark colored"></i>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-css3-plain-wordmark colored"></i>
@@ -50,9 +50,7 @@ const Projects = () => {
                                     </div>
                                     <div>
                                     <h1 className='lg:text-2xl md:text-xl text-lg mb-5'>Dynamic portfolio Website.</h1>
-                                    This project is collaborated project, I recently attend the internship with my friends 
-                                    on NITPY karaikal. They given certain task like create admin panel and it will connect with client side 
-                                    a user or owner of the website change the client side using the admin panel.
+                                    This project was a collaborative effort during my recent internship at NITPY Karaikal with my colleagues. We were tasked with creating an admin panel that connects with the client side, allowing the website owner to manage and update content through the panel effectively.
                                     <div className='mt-5 flex gap-3 flex-wrap'>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-html5-plain-wordmark colored"></i>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-css3-plain-wordmark colored"></i>
@@ -60,6 +58,30 @@ const Projects = () => {
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-nodejs-plain-wordmark colored"></i>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-express-original-wordmark colored"></i>
                                         <i className="lg:text-6xl md:text-4xl text-3xl devicon-mongodb-plain-wordmark colored"></i>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="border-2 border-green-500 rounded-lg ">
+                            <div className="p-3">
+                                <div className='mb-3 flex align-middle justify-between'>
+                                    <h1 className='text-green-500 lg:text-3xl md:text-2xl text-xl'>My Portfolio Website.</h1>
+                                    
+                                </div>
+                                <div className="grid lg:grid-cols-2 grid-cols-1 gap-3 mx-4 font-sourcecd">
+                                    <div>
+                                        <a href="#"><img className='rounded opacity-70 hover:opacity-100' src={Prj3} alt="filesharingweb" /></a>
+                                    </div>
+                                    <div>
+                                    <h1 className='lg:text-2xl md:text-xl text-lg mb-5'>My Portfolio Website.</h1>
+                                    I developed a personal portfolio website using React.js and Tailwind CSS, featuring sections like Home, Experience, Education, Contact, and Projects. Tailwind CSS provided a responsive design, and React.js enabled a dynamic interface.                                    
+                                    <div className='mt-5 flex gap-3 flex-wrap'>
+                                        <i className="lg:text-6xl md:text-4xl text-3xl devicon-html5-plain-wordmark colored"></i>
+                                        <i className="lg:text-6xl md:text-4xl text-3xl devicon-css3-plain-wordmark colored"></i>
+                                        <i className="lg:text-6xl md:text-4xl text-3xl devicon-react-original-wordmark colored"></i>
+                                        <i className="lg:text-6xl md:text-4xl text-3xl devicon-tailwindcss-plain-wordmark colored"></i>
+          
                                     </div>
                                     </div>
                                 </div>

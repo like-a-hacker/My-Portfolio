@@ -23,9 +23,10 @@ const Exp = () => {
                                     <div className="col-span-2">
                                     <h1 className='lg:text-3xl md:text-2xl text-xl mb-3'>NITPY Karaikal.</h1>
                                     <h1 className="lg:text-2xl md:text-xl text-lg mb-1">Web Development</h1>
-                                    Interning at NITPY sharpens my web development skills and advances my career. 
-                                    🚀🌐 Practical experience enriches myo knowledge and promotes professional growth. 
-                                    🌟💼 And I also crescent a personal website for assistant Professor who work in NITPY.
+                                    Interning at NITPY has significantly sharpened my web development skills and 
+                                    advanced my career. The practical experience has enriched my knowledge and 
+                                    contributed to my professional growth. Additionally, I developed a personal 
+                                    website for an Assistant Professor at NITPY.
                                     </div>
                                 </div>
                             </div>
@@ -45,8 +46,7 @@ const Exp = () => {
                                     <div className="col-span-2">
                                     <h1 className='lg:text-3xl md:text-2xl text-xl mb-3'>NSIC Technical Services Centre Chennai.</h1>
                                     <h1 className="lg:text-2xl md:text-xl text-lg mb-1">App Development</h1>
-                                    Completing an internship at NSIC enhances my app development skills and boosts my career prospects. 
-                                    🚀📱 Gaining hands-on experience strengthens my knowledge and professional growth. 🌟💼
+                                    Completing an internship at NSIC has enhanced my app development skills and boosted my career prospects. The hands-on experience has strengthened my knowledge and contributed to my professional growth.
                                     </div>
                                 </div>
                             </div>
